@@ -1,4 +1,5 @@
 "~/.vimrc"
+"Test"
 
 set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
